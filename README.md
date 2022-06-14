@@ -1,0 +1,2 @@
+# stone-store
+monorepo store
